@@ -17,8 +17,8 @@ The project is maintained by the [TEKSI community](https://www.teksi.ch)
 ## How to start
 * More about TEKSI drinking water [features](https://qwat.github.io/docs/en/features-guide/index.html)
 * Quick demo : TO DO
-* [Installation Guide : ](https://qwat.github.io/docs/en/installation-guide/index.html)
-* [How to contribute : ](https://qwat.github.io/docs/en/contributor-guide/index.html)
+* [Installation Guide](https://qwat.github.io/docs/en/installation-guide/index.html)
+* [How to contribute](https://qwat.github.io/docs/en/contributor-guide/index.html)
 
 ## Source code for contributions / GitHub Repository organisation
 * [Datamodel](https://github.com/qwat/qwat-data-model)
