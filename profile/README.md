@@ -15,19 +15,22 @@ The project is maintained by the [TEKSI community](https://www.teksi.ch)
 [TEKSI](https://www.teksi.ch) is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures. [TEKSI GitHub Home page](https://github.com/TEKSI)
 
 ## How to start
-* More about TEKSI drinking water [features](https://qwat.github.io/docs/en/features-guide/index.html)
+* [TEKSI drinking water features](https://qwat.github.io/docs/en/features-guide/index.html)
 * Quick demo : TO DO
 * [Installation Guide](https://qwat.github.io/docs/en/installation-guide/index.html)
 * [How to contribute](https://qwat.github.io/docs/en/contributor-guide/index.html)
 
+## Issues, features, ideas
+* [Issues and features](https://github.com/qwat/qwat/issues)
+* [Disscussions and ideas](https://github.com/qwat/QWAT/discussions)
+
 ## Source code for contributions / GitHub Repository organisation
 * [Datamodel](https://github.com/qwat/qwat-data-model)
-* [QGIS Project](https://github.com/qwat/qwat-data-model)
+* [QGIS Project](https://github.com/qwat/qwat)
 * [Documentation](https://github.com/qwat/docs)
 * [SIRE Extension](https://github.com/qwat/extension_sire)
 * [AQUAFRI_Extension](https://github.com/qwat/extension_aquafri)
 * [RAPEA - COVADIS Extension](https://github.com/qwat/extension_fr_raepa)
-
 
 ## TEKSI ressources on GitHub and other projects
 * [TEKSI GitHub Home page](https://github.com/TEKSI)
